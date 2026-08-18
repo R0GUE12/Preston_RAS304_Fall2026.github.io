@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size= "6">Preston's Datasheet</font><br>
+<font size= "6">Preston Datasheet</font><br>
 as part of<br>
 <font size= "8"> Project Name</font><br>
 for<br>
